@@ -1,4 +1,5 @@
-> [!WARNING] > **This space is only for issues related to the WormholeScan explorer.**
+> [!WARNING]
+> **This space is only for issues related to the WormholeScan explorer.**
 >
 > If you are experiencing problems redeeming your transaction made on **Portal Token Bridge** you can try to manually claim your transfer by following these steps:
 >
